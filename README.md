@@ -34,6 +34,22 @@ UsJgZSR1^K0W;kM
 
 ```
 
+## Usage with docker
+
+```
+$ docker run ruby:2.6.5 /bin/bash -c "gem install mkpassword >/dev/null ; mkpassword -s 2 -l 15 -c 10"
+0Ojuik'5p&pjnaS
+yN9nHg_#PE571FG
+60Idwa53\3EtXS'
+-2&JiiZ43uDh5Js
+?h88$wu8w2y86YE
+gF@1wSHInnAeZ&p
+9R%MjV6xF3ivil_
+95x9rvhNze"1nY/
+NAwEOoE*FQg$R7d
+bHUHUzcnTc2{L^o
+```
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/s3fxn/mkpassword.
