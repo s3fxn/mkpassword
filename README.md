@@ -4,7 +4,7 @@ mkpassword - simple password generator
 
 ## Installation
 
-    $ gem install go-install
+    $ gem install mkpassword
     (you may need to run as root or through sudo.)
 
 ## Usage
