@@ -1,6 +1,6 @@
 # mkpassword
 
-mkpassword - simple password generator
+mkpassword - a simple password generator
 
 ## Installation
 
